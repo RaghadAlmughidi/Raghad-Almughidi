@@ -10,7 +10,7 @@ Computer Science student at KKU Passionate about WebDevelopment, programming tra
 * 🌍  I'm based in KSA
 * 🖥️  See my portfolio at [Raghad Almughidi](https://friendly-capybara-839005.netlify.app/)
 * ✉️  You can contact me at [ralmughidi@gmail.com](mailto:ralmughidi@gmail.com)
-* 🧠  I'm learning Javascript
+* 🧠  I'm learning Javascript - Paython -PHP
 
 <a href="https://twitter.com/Rd_mug" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Rd_mug?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
