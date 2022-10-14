@@ -1,6 +1,6 @@
 
 # Hi 👋 My name is Raghad Almughidi
-===========================
+
 
 Software developer (web development)
 ------------------------------------
