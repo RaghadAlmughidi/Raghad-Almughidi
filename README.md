@@ -8,7 +8,7 @@ Software developer (web development)
 Computer Science student at KKU Passionate about WebDevelopment, programming training, and spreading the culture of #self-learning.
 
 * 🌍  I'm based in KSA
-* 🖥️  See my portfolio at [Raghad Almughidi](https://friendly-capybara-839005.netlify.app/)
+* 🖥️  See my portfolio at [Raghad Almughidi](https://www.raghad-almughidi.com/)
 * ✉️  You can contact me at [ralmughidi@gmail.com](mailto:ralmughidi@gmail.com)
 * 🧠  I'm learning Javascript - Paython -PHP
 
